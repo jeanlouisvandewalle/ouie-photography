@@ -304,6 +304,7 @@ a:hover .more::after, .more:hover::after { width: 4.5rem; }
 .details dt { font-size: .625rem; letter-spacing: .3em; text-transform: uppercase; opacity: .7; margin-top: 1.5rem; }
 .details dd { margin: .35rem 0 0; }
 .details dd a { font-family: var(--serif); font-size: 1.55rem; text-decoration: none; line-height: 1.2; word-break: break-word; }
+.details dd.plain { font-size: .875rem; line-height: 1.6; }
 .details dd a:hover { font-style: italic; }
 .details .icon { width: 2.75rem; margin-top: 2.5rem; }
 
