@@ -4,7 +4,7 @@ Statische website (HTML/CSS/JS, geen build nodig). Open `index.html` of zet de m
 
 ## Structuur
 - `index.html`: Home (hero, values, services, quote)
-- `diensten.html`: Events · Portraits · Lifestyle + werkwijze
+- `diensten.html`: Events · Portraits · Occasions + werkwijze
 - `portfolio.html`: galerij met de beste beelden + lightbox
 - `contact.html`: contactgegevens + formulier
 - `assets/logo/`: originele logobestanden uit de brand kit (niet aangepast)
